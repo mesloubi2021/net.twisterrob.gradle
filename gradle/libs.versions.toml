@@ -38,7 +38,7 @@ kotlin-language = "1.4"
 # Version of Kotlin Gradle Plugin used for compilation.
 kotlin-build = "1.7.10"
 
-# GitHub Releases: https://github.com/gradle/kotlin-dsl/releases
+# GitHub Releases: https://gi1.7.20-Beta/gradle/kotlin-dsl/releases
 # Artifacts: https://repo.gradle.org/gradle/libs-releases-local/org/gradle/gradle-kotlin-dsl/
 # TODO there's no later version that 6.1.1, even though Gradle is 6.9 / 7.x already.
 kotlin-dsl = "6.1.1"
